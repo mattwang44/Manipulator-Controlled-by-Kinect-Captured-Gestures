@@ -1,0 +1,22 @@
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.pdb
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\App.g.cs
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Public\Documents\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\bin\Debug\SkeletalViewer.exe.config
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\bin\Debug\SkeletalViewer.exe
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\bin\Debug\SkeletalViewer.pdb
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\SkeletalViewer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Manipulator Controlled by Human Gestures via Kinect Skeletal Viewer\obj\x86\Debug\SkeletalViewer.g.resources
