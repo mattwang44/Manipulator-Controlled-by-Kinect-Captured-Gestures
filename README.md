@@ -1,6 +1,6 @@
 The code is modified from "Skeletal Viewer", the sample code of Microsoft Kinect for Xbox.
 
-# Manipulator Controlled by Gestures with Kinect
+# Manipulator Controlled by Kinect Captured Gestures
 Term Project of [Introduction to Robotics 2016](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=522%20U1290&class=&dpt_code=5220&ser_no=50327&semester=105-1&lang=EN) in Department of Mechanical Engineering, National Taiwan University (NTUME).
 
 The manipulator imitates the motions of a captured right arm and clenches when the raising of captured left arm is detected.  
