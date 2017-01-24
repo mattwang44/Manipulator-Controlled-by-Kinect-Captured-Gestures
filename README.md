@@ -36,6 +36,9 @@ Visual Studio C# in Win10
 Images captured by Kinect and positions of joints are displayed.
 ![](/image/3.gif) 
 
+# Operation
+![](/image/123.gif) 
+
 # Reference
 1. [Kinect Programming Guide](http://research.microsoft.com/en-us/um/redmond/projects/kinectsdk/docs/ProgrammingGuide_KinectSDK.pdf)
 
