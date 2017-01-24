@@ -32,14 +32,14 @@ Visual Studio C# in Win10
 4. Servo Motor *4
 ![](/image/1.jpg) 
 
-# Interface Preview
+## Interface Preview
 Images captured by Kinect and positions of joints are displayed.
 ![](/image/3.gif) 
 
-# Operation
+## Demo
 ![](/image/123.gif) 
 
-# Reference
+## Reference
 1. [Kinect Programming Guide](http://research.microsoft.com/en-us/um/redmond/projects/kinectsdk/docs/ProgrammingGuide_KinectSDK.pdf)
 
 2. [MSDN Taiwan](https://www.youtube.com/user/TWDevelopGirl/search?query=kinect)
