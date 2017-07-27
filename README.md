@@ -23,11 +23,11 @@ Grad. students of [Intellectual Property Analysis & Innovative Design Laboratory
 Visual Studio C# in Win10
 
 ## Hardware
-1. Kinect for Xbox (1414)
+1. Kinect for Xbox (Ver. 1414)
 
 2. Arduino Uno ( Uploaded with the sample sketchbook "ServoFirmata" in Arduino IDE )
 
-3. Self-made Manipulator (LEGO)
+3. Self-made LEGO Manipulator
 
 4. Servo Motor *4
 ![](/image/1.jpg) 
