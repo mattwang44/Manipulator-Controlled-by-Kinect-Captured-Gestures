@@ -3,7 +3,7 @@ This is the term Project of [Introduction to Robotics 2016](https://nol.ntu.edu.
 
 The manipulator imitates the motions of a human right arm and clenches when the raising of left arm is detected.  
 
-With the function of "Skeletal Tracking" of KinectSDK, the positions of 20 body joints can be determined. The joint angles and the angles of servo motors are computed in the computer and the the command is send to the Arduino board via serial port. Via [Firmata](http://www.firmata.org/wiki/Main_Page) protocol, the commands of Arduino controlling the servo motors can be programmed in C# without modifying the arduino code. 
+Positions of 20 body joints can be captured by Kinect with the function "Skeletal Tracking" in the KinectSDK and joint angles of the arm (as the angles of servo motors) thus can be determined. The command is send to the Arduino board via serial port. By utilizing [Firmata](http://www.firmata.org/wiki/Main_Page) protocol, the commands of Arduino controlling the servo motors can be programmed in C# without modifying the arduino code. 
 
 ## Author
 Wei-hsiang Wang
@@ -30,7 +30,7 @@ Visual Studio C# in Win10
 4. Servo Motor *4
 ![](/image/1.jpg) 
 
-## Interface Preview
+## Interface 
 Images captured by Kinect and positions of joints are displayed.
 ![](/image/3.gif) 
 
