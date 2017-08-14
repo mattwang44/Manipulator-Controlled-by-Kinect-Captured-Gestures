@@ -18,7 +18,9 @@ Grad. students of [Intellectual Property Analysis & Innovative Design Laboratory
 2. [Coding4Fun Kinect Toolkit](https://c4fkinect.codeplex.com/releases/view/68333)
 
 ## Programming Environment
-Visual Studio C# in Win10
+Language: C# (in Visual Studio)
+
+Operating System: Win10
 
 ## Hardware
 1. Kinect for Xbox (Ver. 1414)
